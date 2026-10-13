@@ -1,0 +1,3 @@
+Модель территории Савёловской площади.
+Геоданные: © участники OpenStreetMap, лицензия ODbL 1.0 — https://www.openstreetmap.org/copyright
+Библиотека Three.js и реализация UTCI: уведомления сохранены в THREE-LICENSE.txt и UTCI-LICENSE.txt.
