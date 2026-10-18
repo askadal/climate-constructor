@@ -1,0 +1,31 @@
+{
+  "entry": "index.html",
+  "facadeBaseColor": "#f4f3eb",
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "ATTRIBUTION.txt": "3491b609e65ed4400226f6e7653c37982e5fc5c7a41583b057afc6d4e8d7b7d1",
+    "README.md": "75532e49c07a141b3b48ed22c18448a54d12cdc51d2045a18e162c7b9c0957d0",
+    "THREE-LICENSE.txt": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+    "UTCI-LICENSE.txt": "c89c950283c0bb2e88b926e65daee7645507914af56b9403790e373e8a0c1b76",
+    "assets/broadleaf-painted-v1.png": "fca6cb89535554bcb9ef47becb499905a48a8628c26e37dd38c8611a4d626af6",
+    "assets/conifer-painted-v1.png": "dbd7745896393559ae326cd04a8edf37f4fdca37e2576b6f4257ad8b9e3ee0e3",
+    "assets/generation-prompts.json": "b85e83140c03177894f2b3d4e026808473c50bb785f6e0d07914767bab2bd8bc",
+    "docs/DEVELOPMENT.md": "caafba73d08d34a9a5e6fa04ddee3a56de89a1ac3aa32d04e310dc228578bce7",
+    "docs/build-manifest.json": "e3f161ebf7c07946c93506d3ddd76f159ebb672b8b4c08e159129caa6699fdd5",
+    "docs/crosswalk-alignment-validation.json": "5e989efe9109e4f2e90dfd7feaa9e24acf08f16169efea191bdc43a7e9950aa0",
+    "docs/project-editor-validation.json": "48d689641f37d5d398cc80c31a38b98014fec8a2b5a2c45fb9d5eb75ab2e9a69",
+    "docs/resizable-editor-validation.json": "b64a86bd469e4bf956afd5498679dbce73189684b14446e98453fc16e90f4532",
+    "docs/validation.json": "a8b91e3731dbcf0c076b1348495d7169f58480d439486a00b021066cc5341168",
+    "freehand-zones.mjs": "8f1019dee18b1c996da880102f7a9d2efc978776d5a8d0c5aa1c8f89360b26e4",
+    "index.html": "cd55f28f4f298f9a18173f2c72d74584b2d8021791e748c351106a8f29cb3115",
+    "interface.css": "2d60f099e9d82ffe03aace57b956702d981bd7aa177ffc281f8a308bde36eded",
+    "objects.html": "cc1a6a6a42185bb5c0f1f027cd605e1d0536bca5f71fb479daf08456f6e4cd8f",
+    "site-corrections.json": "8ff842560a422476d3ff5357b3bfc0156ef748e240fabcefeef26dd8efee349a",
+    "visual-assets.mjs": "96bd8397479ebb86b5cd1dff70257571fad916f42acf506075249bee57a0c07d"
+  },
+  "checks": {
+    "selfContainedEntry": true,
+    "localHtmlReferencesExist": true,
+    "facadeMeshesVerified": 868
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "baseSha256": "c923bb74e3ec682ca7c82d29265e3e3d358342a0ae731f835494fe91c389281e",
+  "previewSha256": "cd55f28f4f298f9a18173f2c72d74584b2d8021791e748c351106a8f29cb3115",
+  "unchangedSources": {
+    "mrt-radiation.mjs": "76ce088709ad44ad06b05b79939a42b74ffb975ea1de32cebecfa2381e8cbc39",
+    "pedestrian-wind.mjs": "34ed443d8d3a77c90e0103640959fef03505efbda3ffcb55c59406c44e0068f8",
+    "utci.mjs": "a8f124317959fad7040356b1f0d9e93343851ba27e7ff4213a905b380ee7ecdf",
+    "utci-cold-table.mjs": "0ffc6647fba341c5fb3cf8c18093fc75cae16bdae590669e1cf8536bae29bb28",
+    "water-cooling.mjs": "c9eaea2ca8ab065d4ab482da9ad51b61e5d8c4065b5451764dc8609478a356ec",
+    "lawn-cooling.mjs": "637896751fc10a72c623b4d287dd16ac6e555be5642004da8e12fd21109b6b7c",
+    "climate-reference-day.mjs": "16b5235831fa589f9789787c49fec4262c2055cca8fa869922197d028755c4cc",
+    "climate-scenario-view.mjs": "a9fe74033e1562ca9d77afae49e61227410777d405acdd1b994de6171db8ce30"
+  },
+  "approach": "Separate illustrated build; original climate formulas, matching existing-tree crown geometry in rendering and calculations; screenshot-based curb/crossing corrections; original editor extended with freehand polygon input. Real metre coordinates and original production HTML preserved."
+}

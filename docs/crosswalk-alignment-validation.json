@@ -1,0 +1,86 @@
+{
+  "result": "pass",
+  "method": "Exact triangle intersections against actual road renderer meshes and pedestrian / grass / stair polygons; independent synthetic enclosed-island and elevation fixtures",
+  "checks": [
+    {
+      "name": "Crossing builder leaves the corrected input model unchanged",
+      "pass": true
+    },
+    {
+      "name": "All paint triangles covered by visible asphalt at matching height",
+      "pass": true,
+      "detail": {
+        "triangles": 2096,
+        "errors": 0,
+        "max_uncovered_area_m2": 0.0000037316356156225083
+      }
+    },
+    {
+      "name": "No paint triangle intersects paving, bus islands, grass, buildings or stair opening",
+      "pass": true,
+      "detail": {
+        "errors": 0,
+        "max_intersection_area_m2": 0
+      }
+    },
+    {
+      "name": "Finite vertices and locally matching road elevations",
+      "pass": true,
+      "detail": {
+        "finiteErrors": 0,
+        "levelErrors": 0
+      }
+    },
+    {
+      "name": "Forecourt and both ends of mapped bus platforms retain crossings",
+      "pass": true,
+      "detail": [
+        662902220,
+        914312295,
+        914312296,
+        914312300,
+        914312319,
+        914312320,
+        914312322,
+        914312324,
+        914312327
+      ]
+    },
+    {
+      "name": "Off-road fallback is removed and kerb overshoots are clipped",
+      "pass": true
+    },
+    {
+      "name": "Tiny platform wholly within a stripe is subtracted",
+      "pass": true
+    },
+    {
+      "name": "Concave island and small stair hole are excluded from full triangle interiors",
+      "pass": true
+    },
+    {
+      "name": "Crossing without a visible carriageway produces no paint",
+      "pass": true
+    },
+    {
+      "name": "Sloped elevated crossing follows actual covering road triangles",
+      "pass": true
+    }
+  ],
+  "issues": [],
+  "stats": {
+    "considered_stripes": 347,
+    "painted_stripes": 268,
+    "clipped_stripes": 23,
+    "removed_off_road_stripes": 79,
+    "crossing_meshes": 22,
+    "carriageway_triangles": 3896,
+    "exclusion_triangles": 928,
+    "triangles_checked": 2096
+  },
+  "reference": {
+    "position": "Straight crossing centre lines and corrected pavement polygons from user screenshot 2026-10-18",
+    "source": "User screenshot registered to seven existing platform/island vertices; approximate reconstruction",
+    "limits": "Map schematic and OSM position accuracy; no measured marking survey, no claim of exact as-built paint dimensions"
+  }
+}

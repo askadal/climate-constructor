@@ -1,0 +1,173 @@
+{
+  "status": "passed",
+  "generatedAt": "2026-10-18T14:10:23.238Z",
+  "checks": {
+    "fiveCategoryIconsAndFourTreeChoicesWithWaterChoicesEnabled": true,
+    "submenuAndMatureMode": true,
+    "previewUsesFiniteCrownRadiusAndRealGroundRay": true,
+    "hoverShowsWholeGreyResizedLindenWithoutCreatingRecordsOrCallingCalculation": true,
+    "pointerMovesReusePreviewGeometry": true,
+    "winterPreviewHasNoFoliageAndNoCalculation": true,
+    "cameraDragHidesPreview": true,
+    "pointerLeaveHidesPreview": true,
+    "windowBlurHidesPreview": true,
+    "forbiddenHoverKeepsGreyTreeAndRedRingWithoutPlacement": true,
+    "adultPlacementUsesCoordinatesAndVisibleResizedTree": true,
+    "pendingCalculationBlocksRepeatedPlacement": true,
+    "buildingFixtureRejectsPlacement": true,
+    "outsideTerritoryRejectsPlacement": true,
+    "externalBusyBlocksPlacementAndDisablesControls": true,
+    "changingTypeRebuildsGreyResizedYoungPreviewWithoutCalculation": true,
+    "youngChoiceAddsVisibleResizedTree": true,
+    "snapshotIsAnIndependentCopyInMemory": true,
+    "winterKeepsSameObjectsCoordinatesAndNoFoliage": true,
+    "summerRestoresFoliageWithoutChangingRecords": true,
+    "actualViewerRightButtonCancelsPlacementWithoutPanningOrPlanting": true,
+    "actualViewerRightButtonPansNormallyOutsidePlacement": true,
+    "actualViewerStationaryLeftClickPlacesOnce": true,
+    "escapeHidesWholePreviewAndEndsPlacement": true,
+    "cancelPlacementAPIReturnsWhetherModeWasActiveAndMatchesEscape": true,
+    "existingProjectTreeCanBeSelected": true,
+    "deleteSelectedProjectTreeWithinCurrentSession": true,
+    "leaflessAdultFallbackSelectionUsesCrownRadius": true,
+    "deleteButtonRemovesOnlySelectedTree": true,
+    "hoverPlacementSeasonSelectionAndDeleteNeverReadOrWriteStorage": true,
+    "reloadStartsEmptyEvenWithPreviousUsersStoredTrees": true,
+    "malformedStorageIsNeverReadAndDoesNotBreakEditor": true,
+    "conifer_largeHasGreyPreviewAndCanBePlaced": true,
+    "conifer_largeRetainsWinterFoliageInSessionAndCanBeDeleted": true,
+    "conifer_smallHasGreyPreviewAndCanBePlaced": true,
+    "conifer_smallRetainsWinterFoliageInSessionAndCanBeDeleted": true,
+    "lineFirstClickAndHoverAreDraftOnlyWithExactSpacing": true,
+    "lineSecondClickPlacesWholeBatchWithOneAtomicCallback": true,
+    "linePreviewMarksBlockedCentresRedWithoutRearrangingSpacing": true,
+    "lineSkipsBlockedCentresAndKeepsRemainingExactIntervals": true,
+    "individualTreeFromBatchCanBeSelectedAndDeleted": true,
+    "cancelDiscardsLineStartAndAllPreviewObjectsWithoutCallback": true,
+    "newLineAfterCancellationStartsFresh": true,
+    "singleModeStillPlacesExactlyOneTree": true,
+    "lineSpacingClampPreventsInvalidStep": true,
+    "overlongLineShowsLimitWithoutThrowingOrPartiallyPlanting": true,
+    "firstLawnVertexAndStartingLineAreCyan": true,
+    "lawnHoverExtensionKeepsCyanLineAndFixedCyanVertex": true,
+    "cyanLawnHoverTriangleClosesBackToFirstVertexAndShowsCyanFill": true,
+    "lawnPolygonDrawingShowsOutlineAndFillWithoutCalculation": true,
+    "finishButtonAddsLawnZoneInSeparateAtomicSnapshot": true,
+    "zoneAndDesignSnapshotsHaveIndependentNestedCoordinates": true,
+    "seasonRebuildsZoneGeometryWithoutChangingDesignOrCalculating": true,
+    "lawnFootprintCanBeSelectedAndOutlinedWhilePermittingComfortInspection": true,
+    "selectedZoneCanBeDeletedAndNotifiesOneChange": true,
+    "shrubDrawingLinesVerticesAndFillUseSameCyanAsLawn": true,
+    "enterCompletesFixedOneMetreShrubZone": true,
+    "winterShrubsKeepDeciduousPhysicsAndRebuildAsMutedStemlessLowPolyVolumes": true,
+    "clickingFirstVertexClosesContourWithNoRepeatedVertex": true,
+    "backspaceUndoesDraftVertexInsteadOfDeletingPlacedObject": true,
+    "lawnDraftStaysCyanAfterUndoAndReplacementVertex": true,
+    "escapeDiscardsPolygonDraftAndEndsZoneMode": true,
+    "selfIntersectingPolygonNeverEntersDesignOrCalculation": true,
+    "wholePolygonPermissionCallbackRejectsCrossingBuildingsOrBoundary": true,
+    "busyDisablesEveryActiveTreeAndZoneControlAndDraftCommit": true,
+    "busyReleasePreservesDraftAndAllowsOneCompletion": true,
+    "lineAndZoneOperationsNeverTouchStoredDesigns": true,
+    "actualViewerRightClickDiscardsUnfinishedZoneWithoutPanning": true,
+    "actualViewerCameraDragDoesNotCreatePolygonVertex": true,
+    "actualViewerClickOnPaintedLawnSelectsZoneAndCallsComfortProbe": true,
+    "waterSurfaceUsesCyanPolygonDraftAndDoesNotCreateTreePreviewOrSnapshot": true,
+    "waterSurfaceCommitsNormalizedTwentyCentimetreZoneOnce": true,
+    "winterWaterRebuildPreservesDepthContourAndSessionDesign": true,
+    "waterSurfaceDeletionPreservesOneCallbackAndEmptySnapshot": true,
+    "waterSurfaceEnterFinishesWithoutDuplicatingContour": true,
+    "waterSurfaceFirstPointCompletesAndDeepCopiesCoordinates": true,
+    "wholeWaterSurfaceFootprintRejectionNeverCommits": true,
+    "fountainHoverUsesCyanCompletePoolFootprintWithoutTreePreviewOrCallback": true,
+    "oneClickFountainCreatesOneNormalizedFourByFourRectangleWithOneCallback": true,
+    "pendingCalculationBlocksAdditionalFountainAndPreservesAtomicSnapshot": true,
+    "fountainWinterRebuildDoesNotChangePositionDepthOrCallCalculation": true,
+    "fountainCanBeSelectedForDeletionWhileAllowingGroundComfortInspection": true,
+    "fountainDeletionNotifiesOneEmptySnapshot": true,
+    "fountainOutsideEdgeIsRejectedDespiteAnAllowedCentreAndShownRed": true,
+    "fountainIntersectingBuildingIsRejectedEvenWhenCentreIsOutsideBuilding": true,
+    "escapeCancelsFountainAndHidesItsFootprintAndMenus": true,
+    "rightClickCancellationAPIAlsoClearsFountainWithoutRecords": true,
+    "actualViewerRightButtonClearsWaterContourWithNoPanCommitOrComfortProbe": true,
+    "actualViewerRightButtonClearsFountainPreviewWithNoPanCommitOrComfortProbe": true,
+    "waterAndLandCategoriesCloseEachOtherAndNeverLeakFountainIntoTreeMode": true,
+    "treeCategoryAfterFountainRestoresOrdinaryGreyTreePreview": true,
+    "waterFountainStartEmptyOnReloadAndNeverReadOrWriteSavedDesigns": true
+  },
+  "observations": [
+    {
+      "label": "placedEditedSeasonSwitched",
+      "snapshots": [
+        [
+          {
+            "id": "tree-mvdwkese-1",
+            "type": "mature",
+            "x": -9.999999999999998,
+            "y": 20
+          }
+        ],
+        [
+          {
+            "id": "tree-mvdwkese-1",
+            "type": "mature",
+            "x": -9.999999999999998,
+            "y": 20
+          },
+          {
+            "id": "tree-mvdwket2-2",
+            "type": "young",
+            "x": -20,
+            "y": 9.999999999999996
+          }
+        ],
+        [
+          {
+            "id": "tree-mvdwkese-1",
+            "type": "mature",
+            "x": -9.999999999999998,
+            "y": 20
+          },
+          {
+            "id": "tree-mvdwket2-2",
+            "type": "young",
+            "x": -20,
+            "y": 9.999999999999996
+          },
+          {
+            "id": "tree-mvdwkeup-3",
+            "type": "young",
+            "x": -30,
+            "y": 29.999999999999996
+          }
+        ],
+        [
+          {
+            "id": "tree-mvdwkese-1",
+            "type": "mature",
+            "x": -9.999999999999998,
+            "y": 20
+          },
+          {
+            "id": "tree-mvdwkeup-3",
+            "type": "young",
+            "x": -30,
+            "y": 29.999999999999996
+          }
+        ],
+        [
+          {
+            "id": "tree-mvdwkeup-3",
+            "type": "young",
+            "x": -30,
+            "y": 29.999999999999996
+          }
+        ]
+      ],
+      "renderRequests": 70
+    }
+  ],
+  "sourceSHA256": "b72961d00b1f2c02ab7c9b9d733eb2cd505781bde1e6b4abe520ff869ec75243",
+  "viewerPointerSHA256": "a735d684d9b61fd7118c8b626ad297c5c2c5d5f0d89f9288dc33b14fb7c86b60",
+  "scope": "Actual session-only linden/spruce editor, single and two-click line placement with shared physical spacing, blocked-centre skipping and one atomic callback per batch; lawn/shrub/water polygon drawing with cyan valid drafts, first-point/button/Enter completion, Backspace undo, self-intersection validation, whole-zone permission, selection/deletion and nested independent snapshots. Twenty-centimetre water surface and one-click rectangular 4x4 m fountain pool with a grey 3D construction preview share normalized zone records. Entire fountain footprint is checked before commit, including allowed-centre cases crossing a boundary or building; invalid footprint preview is red. Complete grey 3D tree previews, including winter snow, and actual viewer pointer handlers execute with controlled DOM and real Three.js camera/raycast/ground plane. Polygon/fountain selection permits thermal comfort inspection at the same point. Season changes rebuild trees and zones without changing design records. Every page load begins empty; previous stored designs are neither read nor migrated. No storage access occurs. Escape and actual viewer right click discard lawn, water and fountain drafts, while camera drags cannot plant or add vertices. Busy state disables every active control. The allowed/forbidden fixture tests editor callback flow; separate climate tests validate the real site mask and calculation. Does not validate browser CSS or screenshots."
+}

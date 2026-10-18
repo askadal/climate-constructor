@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "checks": [
+    "Heading removed; scrollbar width permanently reserved",
+    "Climate formulas unchanged; existing-tree geometry reads the same lowered crown base as the visual model",
+    "All tree sizes, analytical crown envelopes and winter leaf fall preserved",
+    "Continuous upright tapered linden trunks, curved spreading branches, over twice the snow surface and unchanged existing-tree heights",
+    "Five deterministic broadleaf crown shapes with painted vertex shading",
+    "Two evergreen variants retained in winter",
+    "Embedded texture hookup, triplanar shader assembly and neutral placement ghost",
+    "Rotated and resized canopy/fountain dimensions unchanged",
+    "Full territory builds with 2439 illustrated meshes (renderer stub)",
+    "check_project_editor.mjs passed with illustrated object builders",
+    "check_resizable_editor.mjs passed with illustrated object builders",
+    "Freehand lawn/shrubs commit once on release; smooth bounded polygons; Escape, right click, busy state, pointer cancellation and forbidden land verified",
+    "Current production HTML unchanged"
+  ],
+  "browserVisualReview": "Unavailable: local file protocol denied by browser policy. No browser screenshot or live UI render claimed.",
+  "facadeColorCheck": {
+    "baseColor": "#f4f3eb",
+    "whiteBlendFrom": "#dbd7bb",
+    "whiteBlendPercent": 70,
+    "meshesVerified": 868,
+    "status": "passed"
+  }
+}

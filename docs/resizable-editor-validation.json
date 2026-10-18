@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "generatedAt": "2026-10-18T14:10:23.395Z",
+  "scope": "Real Three.js handle/ray geometry plus controlled DOM events; no browser-render claim.",
+  "checks": [
+    "Canopy icon places default3x3 fixedheight, leavesplacementmode and immediately selects four scene handles",
+    "Real raycast drag updates roof in real time without mutating committed design, simulation calls or camera; Escape restores geometry",
+    "Pointerup commits one atomic length resize, keeps oppositeedge anchored and width/height unchanged",
+    "Width independently changes through its own raycast handle; rightclick cancels draft without running simulation",
+    "Pointer cancellation and focus loss restore the committed object without extra calculation",
+    "Captured pointer can leave viewport; drags above12m clamp bothaxes to12x12 with16posts andfixedheight, while minimumwidth remains1m",
+    "Construction R/E changes real grey3D preview and footprint in5degree steps; Russian KeyR works, Ctrl+R is untouched, neither keydown nor keyup calculates, invalid clicks preserve angle, Escape cancels",
+    "New construction tool resets angle; one placement click commits the15degree canopy once; subsequent resize follows both rotated local axes at fixed height",
+    "R/E after placement and during external busy state are ignored without geometry changes or extra simulations",
+    "Rectangular fountain uses identical resize controls, adapts visible basin, retains20cm depth/winterice and immutable design snapshots",
+    "Changing construction tools and cancelPlacement reset angle; fountain E previews355degrees beforeclick and commits only onplacement",
+    "Selected resizedobject still deletes atomically; normal camera gestures remain available and editing callbacks accurately bracket gestures",
+    "Second pointer cannot replace an active gesture; external calculation cancels the draft before locking without committing",
+    "Far perspective view retains clearly sized handles and real raycast picking at the visible control position",
+    "Actual viewer wheel and keyboard handlers keep camera fixed during resize and resume after the gesture"
+  ],
+  "calculationCalls": 12,
+  "sourceHashes": {
+    "project-editor.mjs": "b72961d00b1f2c02ab7c9b9d733eb2cd505781bde1e6b4abe520ff869ec75243",
+    "project-editor.html": "4102040b2b20d9f6d03ed7a089007d9447145d413c8ec3c273bbb7710683e4a2",
+    "project-editor.css": "ba9e61e9c0ce5cef4ea2667f61d0a042655440808d375674f888f5ed36a6f606",
+    "project-canopy.mjs": "ccaad497b053db85704f1d08c299be0ed968239a740ad0bc1ac10d588c25c757",
+    "project-water.mjs": "5d90f1f46d6577e024948f2f92f0d2ecb9738764f958f2b931c2450fec3eed1d",
+    "project-landscape.mjs": "2b77d1e26dcab17cbcbded2f7d157784cca1d5675da5de0f36e73a7d5ed80685",
+    "model-viewer.template.html": "8f91384d45dd2dc01d20b807cee07aee861b7741d99bf4dfbb7e0f0ee97e350d",
+    "check_resizable_editor.mjs": "42a0e464cdf2cb6b3cbaebea01ea8e8fa2a532b19100f8d6a4ad4100fd02d479"
+  }
+}

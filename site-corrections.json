@@ -1,0 +1,732 @@
+{
+  "reference": {
+    "image": "codex-clipboard-67ec4899-51e8-485a-9dc6-e16d815a63f7.png",
+    "date": "2026-10-18",
+    "method": "Ground-plane projective fit to seven existing island vertices. Red outlines reconstruct three curb boundaries; blue routes become straight centre lines. Screenshot-based approximation, not a survey.",
+    "mapping": {
+      "matrix": [
+        [
+          4.7825100477818365,
+          -8.035185064849342,
+          363.71504248227853
+        ],
+        [
+          -3.5928945390150093,
+          -2.314973945447278,
+          239.1574087791073
+        ],
+        [
+          0.0027985226873550317,
+          0.000177133625031356,
+          1.0
+        ]
+      ],
+      "pairs": [
+        [
+          "visual/plaza-entry-sidewalk-island",
+          3,
+          [
+            403,
+            438
+          ]
+        ],
+        [
+          "visual/plaza-entry-sidewalk-island",
+          0,
+          [
+            309,
+            588
+          ]
+        ],
+        [
+          "visual/plaza-entry-sidewalk-island",
+          6,
+          [
+            475,
+            591
+          ]
+        ],
+        [
+          "way/914312333",
+          10,
+          [
+            453,
+            325
+          ]
+        ],
+        [
+          "way/914312335",
+          8,
+          [
+            562,
+            148
+          ]
+        ],
+        [
+          "way/914312333",
+          30,
+          [
+            912,
+            187
+          ]
+        ],
+        [
+          "way/914312335",
+          22,
+          [
+            808,
+            81
+          ]
+        ]
+      ]
+    }
+  },
+  "features": {
+    "visual/plaza-lawn-sidewalk": {
+      "coords": [
+        [
+          -33.514,
+          -41.908
+        ],
+        [
+          -30.765,
+          -45.756
+        ],
+        [
+          -28.092,
+          -50.937
+        ],
+        [
+          -26.601,
+          -54.799
+        ],
+        [
+          -22.892,
+          -58.666
+        ],
+        [
+          -19.465,
+          -65.264
+        ],
+        [
+          -15.63,
+          -69.432
+        ],
+        [
+          -12.113,
+          -73.32
+        ],
+        [
+          -7.066,
+          -76.853
+        ],
+        [
+          -1.851,
+          -79.881
+        ],
+        [
+          2.524,
+          -81.227
+        ],
+        [
+          5.888,
+          -81.564
+        ],
+        [
+          8.917,
+          -81.059
+        ],
+        [
+          11.609,
+          -79.713
+        ],
+        [
+          14.132,
+          -77.526
+        ],
+        [
+          16.992,
+          -74.161
+        ],
+        [
+          20.189,
+          -69.114
+        ],
+        [
+          23.049,
+          -65.581
+        ],
+        [
+          25.236,
+          -64.067
+        ],
+        [
+          27.423,
+          -63.73
+        ],
+        [
+          29.778,
+          -64.235
+        ],
+        [
+          31.461,
+          -65.749
+        ],
+        [
+          32.302,
+          -67.936
+        ],
+        [
+          31.797,
+          -70.628
+        ],
+        [
+          29.105,
+          -75.507
+        ],
+        [
+          24.563,
+          -82.91
+        ],
+        [
+          21.03,
+          -88.125
+        ],
+        [
+          17.497,
+          -92.499
+        ],
+        [
+          13.459,
+          -94.518
+        ],
+        [
+          9.421,
+          -95.191
+        ],
+        [
+          4.711,
+          -95.191
+        ],
+        [
+          0.168,
+          -94.182
+        ],
+        [
+          -3.87,
+          -92.331
+        ],
+        [
+          -7.907,
+          -89.471
+        ],
+        [
+          -11.609,
+          -85.77
+        ],
+        [
+          -14.805,
+          -81.396
+        ],
+        [
+          -18.675,
+          -75.339
+        ],
+        [
+          -22.208,
+          -69.955
+        ],
+        [
+          -26.414,
+          -63.394
+        ],
+        [
+          -28.646,
+          -58.486
+        ],
+        [
+          -31.902,
+          -53.139
+        ],
+        [
+          -34.324,
+          -51.01
+        ],
+        [
+          -36.382,
+          -48.136
+        ],
+        [
+          -37.094,
+          -45.889
+        ],
+        [
+          -36.566,
+          -44.054
+        ],
+        [
+          -35.128,
+          -42.632
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "visual/plaza-parking-island": {
+      "coords": [
+        [
+          -25.159,
+          -28.961
+        ],
+        [
+          -25.572,
+          -28.775
+        ],
+        [
+          -24.731,
+          -27.597
+        ],
+        [
+          -22.712,
+          -26.756
+        ],
+        [
+          -20.189,
+          -26.924
+        ],
+        [
+          -17.497,
+          -28.775
+        ],
+        [
+          -15.31,
+          -31.13
+        ],
+        [
+          -12.954,
+          -31.13
+        ],
+        [
+          10.599,
+          -52.833
+        ],
+        [
+          13.459,
+          -50.982
+        ],
+        [
+          17.16,
+          -53.337
+        ],
+        [
+          19.684,
+          -55.525
+        ],
+        [
+          20.862,
+          -57.543
+        ],
+        [
+          21.03,
+          -59.226
+        ],
+        [
+          20.02,
+          -60.74
+        ],
+        [
+          18.17,
+          -62.591
+        ],
+        [
+          16.319,
+          -63.264
+        ],
+        [
+          13.291,
+          -63.264
+        ],
+        [
+          10.767,
+          -62.591
+        ],
+        [
+          8.244,
+          -61.245
+        ],
+        [
+          6.73,
+          -59.899
+        ],
+        [
+          5.888,
+          -58.216
+        ],
+        [
+          5.72,
+          -55.693
+        ],
+        [
+          6.057,
+          -53.169
+        ],
+        [
+          4.206,
+          -50.982
+        ],
+        [
+          -11.187,
+          -37.659
+        ],
+        [
+          -19.586,
+          -38.563
+        ],
+        [
+          -21.92,
+          -36.233
+        ],
+        [
+          -24.319,
+          -33.743
+        ],
+        [
+          -26.527,
+          -31.222
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "visual/plaza-west-entry-asphalt": {
+      "coords": [
+        [
+          -90.0,
+          5.0
+        ],
+        [
+          -76.1,
+          -4.3
+        ],
+        [
+          -66.129,
+          -9.075
+        ],
+        [
+          -64.098,
+          -9.803
+        ],
+        [
+          -56.241,
+          -10.6
+        ],
+        [
+          -45.614,
+          -10.161
+        ],
+        [
+          -38.154,
+          -9.62
+        ],
+        [
+          -31.838,
+          -9.105
+        ],
+        [
+          -29.24,
+          -9.663
+        ],
+        [
+          -22.0,
+          -12.0
+        ],
+        [
+          -18.8,
+          -21.7
+        ],
+        [
+          -25.2,
+          -30.9
+        ],
+        [
+          -36.3,
+          -42.9
+        ],
+        [
+          -37.3,
+          -51.1
+        ],
+        [
+          -40.2,
+          -58.9
+        ],
+        [
+          -49.8,
+          -59.2
+        ],
+        [
+          -59.8,
+          -56.4
+        ],
+        [
+          -67.8,
+          -50.9
+        ],
+        [
+          -67.0,
+          -43.0
+        ],
+        [
+          -69.8,
+          -34.1
+        ],
+        [
+          -75.0,
+          -24.3
+        ],
+        [
+          -85.3,
+          -10.1
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/914312295/line": {
+      "lines": [
+        [
+          [
+            -9.999,
+            -7.797
+          ],
+          [
+            -8.67,
+            -14.397
+          ]
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/914312296/line": {
+      "lines": [
+        [
+          [
+            3.798,
+            -6.372
+          ],
+          [
+            5.058,
+            -13.798
+          ]
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/914312300/line": {
+      "lines": [
+        [
+          [
+            16.625,
+            -4.704
+          ],
+          [
+            18.078,
+            -12.603
+          ]
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/662902220/line": {
+      "lines": [
+        [
+          [
+            29.437,
+            -4.517
+          ],
+          [
+            31.348,
+            -11.472
+          ]
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/914312284/line": {
+      "lines": [
+        [
+          [
+            -31.727,
+            -10.849
+          ],
+          [
+            -32.341,
+            -17.973
+          ]
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/914312273/line": {
+      "lines": [
+        [
+          [
+            -32.451,
+            -23.049
+          ],
+          [
+            -25.638,
+            -29.158
+          ]
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/914333940/line": {
+      "lines": [
+        [
+          [
+            -11.621,
+            -19.005
+          ],
+          [
+            -18.96,
+            -26.412
+          ]
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/914312275/line": {
+      "lines": [
+        [
+          [
+            -23.523,
+            -36.508
+          ],
+          [
+            -31.05,
+            -42.527
+          ]
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/914312314/line": {
+      "lines": [
+        [
+          [
+            -44.375,
+            -33.008
+          ],
+          [
+            -35.682,
+            -42.953
+          ]
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/914312293/line": {
+      "lines": [
+        [
+          [
+            -54.982,
+            -31.397
+          ],
+          [
+            -68.997,
+            -38.124
+          ]
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/914312262/line": {
+      "lines": [
+        [
+          [
+            -34.358,
+            -51.68
+          ],
+          [
+            -45.077,
+            -61.574
+          ]
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/914312324/line": {
+      "lines": [
+        [
+          [
+            43.298,
+            -55.11
+          ],
+          [
+            34.999,
+            -64.129
+          ]
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/914312325/line": {
+      "lines": [
+        [
+          [
+            23.231,
+            -62.498
+          ],
+          [
+            28.848,
+            -65.693
+          ]
+        ]
+      ],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/914312274/line": {
+      "lines": [],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    },
+    "way/914312338/line": {
+      "lines": [],
+      "geometry_status": "user_reference_adjustment",
+      "visual_approximation": true,
+      "position_source": "User screenshot 2026-10-18, ground-plane projective fit"
+    }
+  }
+}
